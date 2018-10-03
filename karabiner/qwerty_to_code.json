@@ -1,0 +1,41 @@
+{
+    "profiles": [
+        {
+            "name": "Default profile",
+            "selected": true,
+            "simple_modifications": {
+                "caps_lock": "escape",
+                "q": "q",
+                "w": "w",
+                "e": "d",
+                "r": "f",
+                "t": "b",
+                "y": "slash",
+                "u": "m",
+                "i": "u",
+                "o": "g",
+                "p": "p",
+                "a": "a",
+                "s": "r",
+                "d": "t",
+                "f": "s",
+                "g": "comma",
+                "h": "period",
+                "j": "n",
+                "k": "e",
+                "l": "o",
+                "semicolon": "i",
+                "z": "z",
+                "x": "x",
+                "c": "v",
+                "v": "c",
+                "b": "semicolon",
+                "n": "l",
+                "m": "h",
+                "comma": "j",
+                "period": "k",
+                "slash": "y"
+            }
+        }
+    ]
+}

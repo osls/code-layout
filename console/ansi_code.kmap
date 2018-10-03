@@ -1,0 +1,75 @@
+# CODE kmap for Linux console.
+alt_is_meta
+charset "iso-8859-15"
+# use an ISO-8859-15 font, e.g.: consolechars -f lat9v-14
+#
+keymaps 0-12
+include "qwerty-layout"
+include "linux-with-alt-and-altgr"
+strings as usual
+# B. Wang, China
+
+keycode  41 = grave asciitilde grave asciitilde
+keycode   2 = one exclam one exclam
+keycode   3 = two at two at
+keycode   4 = three numbersign three numbersign
+keycode   5 = four dollar four dollar
+keycode   6 = five percent five percent
+keycode   7 = six asciicircum six asciicircum
+keycode   8 = seven ampersand seven ampersand
+keycode   9 = eight asterisk eight asterisk
+keycode  10 = nine parenleft nine parenleft
+keycode  11 = zero parenright zero parenright
+keycode  12 = minus underscore minus underscore
+keycode  13 = equal plus equal plus
+
+keycode  16 = q Q q Q
+keycode  17 = w W w W
+keycode  18 = d D d D
+keycode  19 = f F f F
+keycode  20 = b B b B
+keycode  21 = slash question slash question
+keycode  22 = m M m M
+keycode  23 = u U u U
+keycode  24 = g G g G
+keycode  25 = p P p P
+keycode  26 =  bracketleft  braceleft  bracketleft  braceleft
+keycode  27 = bracketright braceright bracketright braceright
+keycode  43 =    backslash        bar    backslash        bar
+
+keycode  30 = a A a A
+keycode  31 = r R r R
+keycode  32 = t T t T
+keycode  33 = s S s S
+keycode  34 = comma less comma less
+keycode  35 = period greater period greater
+keycode  36 = n N n N
+keycode  37 = e E e E
+keycode  38 = o O o O
+keycode  39 = i I i I
+keycode  40 = apostrophe quotedbl apostrophe quotedbl
+
+keycode  44 = z Z z Z
+keycode  45 = x X x X
+keycode  46 = v V v V
+keycode  47 = c C c C
+keycode  48 = semicolon colon semicolon colon
+keycode  49 = l L l L
+keycode  50 = h H h H
+keycode  51 = j J j J
+keycode  52 = k K k K
+keycode  53 = y Y y Y
+
+keycode  57 = space space space space
+keycode  58 = Escape Escape Escape Escape
+
+keycode   1 = Escape
+keycode  14 = Delete
+keycode  15 = Tab
+keycode  28 = Return
+        alt     keycode  28 = Meta_Control_m
+keycode  29 = Control
+keycode  42 = Shift
+keycode  54 = Shift
+keycode  56 = Alt
+keycode  97 = Control
