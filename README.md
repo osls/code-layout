@@ -12,6 +12,7 @@ Z X V C ; L H J K Y
 - Uses a `Colemak`-like character layout, which is pretty popular.
 - Good for `Vim` users, `LHJK` are put together.
 - Very little lateral motion.
+- Only a couple of keys move between hands for typists come from `QWERTY`.
 - Be much more ergonomic than `QWERTY` (and many other layouts).
 - Common key bindings still can be done on the left hand.
 - Be friendly to both matrix keyboard and standard keyboard.
@@ -23,7 +24,8 @@ Z X V C ; L H J K Y
 
 ## Windows: AutoHotKey
 
-The fastest way to try out `CODE` on Windows is to use the [AutoHotKey](https://autohotkey.com/) scripts. See the [**autohotkey folder**](autohotkey/).
+The fastest way to try out `CODE` on Windows is to use the [AutoHotKey](https://autohotkey.com/) scripts.
+See the [**autohotkey folder**](autohotkey/).
 
 ## Linux: Xmodmap / console files
 
@@ -32,7 +34,8 @@ The fastest way to try out `CODE` on Windows is to use the [AutoHotKey](https://
 - You may need to customize these for your own language/region.
 
 ## macOS: Karabiner
-The fastest way to try out `CODE` on macOS is to use the [Karabiner](https://pqrs.org/osx/karabiner/) scripts. See the [**Karabiner folder**](karabiner/).
+The fastest way to try out `CODE` on macOS is to use the [Karabiner](https://pqrs.org/osx/karabiner/) scripts.
+See the [**Karabiner folder**](karabiner/).
 
 ------
 
