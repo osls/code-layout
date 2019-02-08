@@ -1,5 +1,5 @@
 `CODE` keyboard layout --- for all computer users
-===============================================
+=================================================
 
 ```
 Q W D F B / M U G P
@@ -10,15 +10,15 @@ Z X V C ; L H J K Y
 ## Pro
 
 - Uses a `Colemak`-like character layout, which is pretty popular.
-- Good for `Vim` users, `LHJK` are put together.
-- Very little lateral motion.
+- Good for `Vim` users, `LHJK` are put together in a row.
+- Very few lateral alphabetic motion to break typists' threads of thinking.
 - Only a couple of keys move between hands for typists come from `QWERTY`.
 - Be much more ergonomic than `QWERTY` (and many other layouts).
 - Common key bindings still can be done on the left hand.
 - Be friendly to both matrix keyboard and standard keyboard.
 - It is optimized for both English and Chinese (Pinyin).
-- Punctuation is optimized.
-- It is open source.
+- Positions of the most popular punctuation marks are optimized.
+- It is `free and open source software` (`FOSS`).
 
 ------
 
