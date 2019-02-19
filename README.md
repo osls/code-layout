@@ -16,7 +16,7 @@ Z X V C ; L H J K Y
 - Be much more ergonomic than `QWERTY` (and many other layouts).
 - Common key bindings still can be done on the left hand.
 - Be friendly to both matrix keyboard and standard keyboard.
-- It is optimized for both English and Chinese (Pinyin).
+- It is optimized for both English and Chinese ([Fuzzy Pinyin](https://github.com/osls/code-layout/issues/1)).
 - Positions of the most popular punctuation marks are optimized.
 - It is `free and open source software` (`FOSS`).
 
