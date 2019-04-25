@@ -7,7 +7,7 @@ SC013::f
 SC014::b
 SC015::/
 SC016::m
-SC017::u
+SC017::y
 SC018::g
 SC019::p
 
@@ -31,7 +31,7 @@ SC031::l
 SC032::h
 SC033::j
 SC034::k
-SC035::y
+SC035::u
 
 ; set the CapsLock key
 sc03a::escape

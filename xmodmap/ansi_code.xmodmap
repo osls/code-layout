@@ -31,7 +31,7 @@ keycode  27 = f F f F
 keycode  28 = b B b B
 keycode  29 = slash question slash question
 keycode  30 = m M m M
-keycode  31 = u U u U
+keycode  31 = y Y y Y
 keycode  32 = g G g G
 keycode  33 = p P p P
 
@@ -56,7 +56,7 @@ keycode  57 = l L l L
 keycode  58 = h H h H
 keycode  59 = j J j J
 keycode  60 = k K k K
-keycode  61 = y Y y Y
+keycode  61 = u U u U
 
 !!keycode  65 = space Tab space Tab
 keycode  66 = Escape Escape Escape Escape

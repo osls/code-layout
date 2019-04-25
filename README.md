@@ -2,21 +2,22 @@
 =================================================
 
 ```
-Q W D F B / M U G P
+Q W D F B / M Y G P
 A R T S , . N E O I
-Z X V C ; L H J K Y
+Z X V C ; L H J K U
 ```
 
 ## Pro
 
 - Uses a `Colemak`-like character layout, which is pretty popular.
 - Good for `Vim` users, `LHJK` are put together in a row.
+- For game players, `WASD` are still together.
 - Very few lateral alphabetic motion to break typists' threads of thinking.
 - Only a couple of keys move between hands for typists come from `QWERTY`.
 - Be much more ergonomic than `QWERTY` (and many other layouts).
 - Common key bindings still can be done on the left hand.
 - Be friendly to both matrix keyboard and standard keyboard.
-- It is optimized for both English and Chinese ([Fuzzy Pinyin](https://github.com/osls/code-layout/issues/1)).
+- In addition to optimizing English, Chinese Pinyin is also taken into account.
 - Positions of the most popular punctuation marks are optimized.
 - It is `free and open source software` (`FOSS`).
 

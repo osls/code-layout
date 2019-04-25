@@ -30,7 +30,7 @@ keycode  19 = f F f F
 keycode  20 = b B b B
 keycode  21 = slash question slash question
 keycode  22 = m M m M
-keycode  23 = u U u U
+keycode  23 = y Y y Y
 keycode  24 = g G g G
 keycode  25 = p P p P
 keycode  26 =  bracketleft  braceleft  bracketleft  braceleft
@@ -58,7 +58,7 @@ keycode  49 = l L l L
 keycode  50 = h H h H
 keycode  51 = j J j J
 keycode  52 = k K k K
-keycode  53 = y Y y Y
+keycode  53 = u U u U
 
 keycode  57 = space space space space
 keycode  58 = Escape Escape Escape Escape
