@@ -43,16 +43,3 @@ See the [**Karabiner folder**](karabiner/).
 ## About
 - `CODE` keyboard layout is forked from [`Colemak-DH`](http://colemakmods.github.io/mod-dh/).
 - For the name `CODE`, `CO` is taken from `COlemak`, `D` is taken from `mod-Dh`, and `E` implies an extension.
-
-## License
-
-- The keyboard layout and the implementations are available under the public domain.
-- You have the right to freely use it for any purpose, without any conditions.
-- Attribution is strongly encouraged, but not required.
-
-The downloadable software is provided "as is", without warranty of any kind, express or implied,
-    including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement.
-
-In no event shall the authors or copyright holders be liable for any claim, damages or other liability,
-    whether in an action of contract, tort or otherwise, arising from,
-    out of or in connection with the software or the use or other dealings in the software.
