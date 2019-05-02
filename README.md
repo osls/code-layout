@@ -1,20 +1,33 @@
 `CODE` keyboard layout --- for all computer users
 =================================================
 
-```
-Q W D F B / M Y G P
-A R T S , . N E O I
-Z X V C ; L H J K U
-```
+![](code_layout.png)
 
 ## Pro
 
 - Uses a `Colemak`-like character layout, which is pretty popular.
 - Good for `Vim` users, `LHJK` are put together in a row.
+- Friendly to emacs users, `C-x`, `M-x` and `C-c` are easy to touch.
 - For game players, `WASD` are still together.
 - Very few lateral alphabetic motion to break typists' threads of thinking.
 - Only a couple of keys move between hands for typists come from `QWERTY`.
-- Be much more ergonomic than `QWERTY` (and many other layouts).
+- Be more ergonomic than `QWERTY` and many other layouts:
+```
+mod-dh      2.012
+Colemak     2.310
+Dvorak      2.435
+workman     1.876
+MTGAP       1.810
+BEAKL       2.018
+asset       2.438
+Norman      1.888
+minimak-8   2.634
+qwerty      3.947
+code (mygp) 1.781
+Halmak      1.622
+```
+, according to [MadRabbit's measurement]( http://nikolay.rocks/2016-10-22-keyboard-analytics) and [mod-dh's analyzer](http://colemakmods.github.io/mod-dh/analyze.html).
+
 - Common key bindings still can be done on the left hand.
 - Be friendly to both matrix keyboard and standard keyboard.
 - In addition to optimizing English, Chinese Pinyin is also taken into account.
