@@ -1,7 +1,11 @@
-`CODE` keyboard layout --- for all computer users
-=================================================
+# `CODE` keyboard layout
 
 ![](code_layout.png)
+
+```
+I am NOT going to update it any more.
+Please help yourself, if you have further requests.
+```
 
 ## Pro
 
